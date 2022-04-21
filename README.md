@@ -1,2 +1,2 @@
 # Algorithm
-recording the solving questions
+나만의 소중한 작은 백준...
